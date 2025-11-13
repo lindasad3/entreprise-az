@@ -1,0 +1,8 @@
+# Créez un fichier .gitignore
+echo "node_modules/" >> .gitignore
+echo ".env" >> .gitignore
+echo "dist/" >> .gitignore
+echo ".DS_Store" >> .gitignore
+
+# Ajoutez le .gitignore
+git add .gitignore
