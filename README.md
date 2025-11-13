@@ -1,13 +1,7 @@
-Parfait 🌟
-Voici ton **README.md pro, stylé et prêt à copier-coller directement dans ton GitHub**.
-Il est structuré comme un vrai projet d’agence web — attractif, moderne, crédible, et parfaitement SEO-friendly.
-
----
-
-````markdown
+ 
 <div align="center">
 
-# 🏗️ **Entreprise AZ – Rénovation Intérieure & Design**
+ **Entreprise AZ – Rénovation Intérieure & Design**
 
 > Une entreprise de **rénovation d’intérieur** et d’**aménagement sur mesure**, au service des particuliers et professionnels.  
 > Projet développé avec **React + Tailwind CSS + Vite**, alliant performance, design et expérience utilisateur moderne.
