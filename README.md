@@ -133,11 +133,11 @@ Créer une **landing page haut de gamme** pour une entreprise BTP :
 ---
 
 ## 📬 **Contact**
-
-**Entreprise AZ**
-🏠 18 Rue René Coty, 27140 Gisors
-📞 07 77 77 77 77
-📧 [contact@entreprise-az.fr](mailto:contact@entreprise-az.fr)
+ 
+**Entreprise AZ** <br>
+ 🏠 Paris <br>
+ 📧 [entreprise-az@gmail.com] <br>
+ (mailto:entreprise-az@gmail.com)
 
 👩‍💻 Développement & design : [**Lynda Sadoudi**](https://github.com/lindasad3)
 
