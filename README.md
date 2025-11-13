@@ -136,8 +136,8 @@ Créer une **landing page haut de gamme** pour une entreprise BTP :
  
 **Entreprise AZ** <br>
  🏠 Paris <br>
- 📧 [entreprise-az@gmail.com]  
- (mailto:entreprise-az@gmail.com) <br>
+
+ 📧 [entreprise-az@gmail.com](mailto:entreprise-az@gmail.com)
 
 👩‍💻 Développement & design : [**Lynda Sadoudi**](https://github.com/lindasad3)
 
