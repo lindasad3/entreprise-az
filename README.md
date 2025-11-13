@@ -12,6 +12,7 @@
 </div>
 
 ---
+<div align="center">
 
 ## 🚀 **Stack Technique**
 
@@ -24,6 +25,7 @@
 | 🎨 **Framer Motion** *(optionnel)* | Animations élégantes et légères |
 | 🔍 **SEO Optimisé** | Structure sémantique + meta tags + accessibilité |
 | 📱 **Responsive Design** | Mobile-first, adapté à tous les écrans |
+</div>
 
 ---
 
